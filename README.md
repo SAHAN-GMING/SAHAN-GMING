@@ -7,9 +7,10 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=30FF40&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+SAHAN+%F0%9F%91%8B;I'm+a+Programmer+%F0%9F%94%A5;Respect+SAHAN-GMING+%F0%9F%A5%80;Please+Follow+My+GitHub+%F0%9F%99%8F;Love+From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+SAHAN+%F0%9F%91%8B;I'm+a+Programmer+%F0%9F%94%A5;Respect+SAHAN-GMING+%F0%9F%A5%80;Love+From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing animation" />
 </a>
 
+<br><br>
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=SAHAN-GMING&label=Profile+Views&color=30FF40&style=flat-square" alt="Profile views" />
