@@ -1,33 +1,78 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<div align="center">
 
-<h3 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a7f37&height=180&section=header&text=SAHAN%20GMING&fontSize=50&fontColor=30FF40&animation=fadeIn" alt="Header banner" />
 
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+<img src="https://img.shields.io/badge/RULE%20IN-PROGRAMMER-1a7f37?style=for-the-badge&labelColor=000000" alt="Rule In Programmer badge" />
 
-&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+<br><br>
 
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=30FF40&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+SAHAN+%F0%9F%91%8B;I'm+a+Programmer+%F0%9F%94%A5;Respect+SAHAN-GMING+%F0%9F%A5%80;Please+Follow+My+GitHub+%F0%9F%99%8F;Love+From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing animation" />
+</a>
 
-</h3>
+<br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-SAHAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+SAHAN-GMING+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=SAHAN-GMING&label=Profile+Views&color=30FF40&style=flat-square" alt="Profile views" />
 
-𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+</div>
 
-<img src="https://profile-counter.glitch.me/SAHAN-GMING/count.svg" />
+---
 
+## 👨‍💻 About Me
+
+- 💻 Passionate about programming and hands-on projects
+- 🎯 Always learning and building new things
+- 🌱 Interested in contributing to open source
+- 🇧🇩 Based in Bangladesh
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+> Edit this list to match your actual skills.
 
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+---
 
+## 📊 GitHub Statistics
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<div align="center">
 
-<a href="https://github.com/SAHAN-GMING"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=SAHAN-GMING&theme=monokai"></a>
+<a href="https://github.com/SAHAN-GMING">
+  <img src="https://github-profile-trophy.vercel.app/?username=SAHAN-GMING&theme=monokai&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</a>
 
+<br><br>
 
-![SAHAN-GMING's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAHAN-GMING&show_icons=true&theme=chartreuse-dark)  
+<img height="170" alt="SAHAN-GMING's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SAHAN-GMING&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAHAN-GMING&layout=compact&theme=transparent&hide_border=true" />
 
-![SAHAN-GMING GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAHAN-GMING&theme=radical)
+<br><br>
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=SAHAN-GMING&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/SAHAN-GMING"><img src="https://img.shields.io/badge/GitHub-SAHAN--GMING-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!-- Add your Facebook/Telegram/Email link here -->
+</p>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</div>
